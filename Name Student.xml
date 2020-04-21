@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Note>
+    <Nota idNota="111">
+        <nr>11</nr>
+        <valoare>10.0</valoare>
+        <predat>1</predat>
+        <deadline>3</deadline>
+        <feedback>feedback text</feedback>
+    </Nota>
+</Note>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Note>
+    <Nota idNota="111">
+        <nr>11</nr>
+        <valoare>10.0</valoare>
+        <predat>1</predat>
+        <deadline>3</deadline>
+        <feedback>feedback text</feedback>
+    </Nota>
+</Note>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Note>
+    <Nota idNota="111">
+        <nr>11</nr>
+        <valoare>10.0</valoare>
+        <predat>1</predat>
+        <deadline>3</deadline>
+        <feedback>feedback text</feedback>
+    </Nota>
+</Note>

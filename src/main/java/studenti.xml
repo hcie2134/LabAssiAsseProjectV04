@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<inbox>
+    <Student idStudent="2">
+        <nume>Gorea Andra</nume>
+        <grupa>921</grupa>
+        <mail>gaie1234@scs.ubbcluj.ro</mail>
+        <profesor>Lovin Andrei</profesor>
+    </Student>
+</inbox>
